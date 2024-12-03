@@ -1,7 +1,7 @@
 # HR-ATTRITTION ANALYSIS-DASHBOARD 
 This dashboard helps analyze employee attrition trends and identifies key factors influencing turnover within an organization.
 
-##Key Insights:
+## Key Insights:
 
 High Attrition in Certain Departments: Some departments have a higher turnover rate, indicating potential issues with job satisfaction or management practices.
 
